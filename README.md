@@ -7,13 +7,13 @@ This page is about the course **data engineering** in the department of informat
 2. [Item-based collaborative filtering](https://speakerdeck.com/trycycle/recommender-systems-part-2)
 3. [Matrix Factorization](https://speakerdeck.com/trycycle/recommender-systems-part-3)
 4. [Link analysis](https://speakerdeck.com/trycycle/recommender-systems-part-4)
-5. [Course assignment (University Office365 account is needed to access)]()
+<!-- 5. [Course assignment (University Office365 account is needed to access)](https://scii-my.sharepoint.com/:b:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/EQImve4xzitInA_-d83TaP4BS1qoCOnMAbXYKO8wo1TNZg?e=3droX1) -->
 
 ### Lecture videos
 1. [User-based collaborative filtering](https://youtu.be/sK3sAOFTTDc)
-2. [Item-based collaborative filtering]()
-3. [Matrix Factorization]()
-4. [Link analysis]()
+2. [Item-based collaborative filtering](https://youtu.be/NRGPN2wDKSU)
+3. [Matrix Factorization](https://youtu.be/kEuinjVqudA)
+4. [Link analysis](https://youtu.be/w2gwClrXCI0)
 
 ### Hands-on & programming assignment (NOT MANDATORY)
 The following programming codes help you to understand how several algorithms of recommender systems actually work. Each hands-on code contains programming assignments, but the assignments are not mandatory to challenge. Even if you do not challenge, that will not influence your credit on this course.
