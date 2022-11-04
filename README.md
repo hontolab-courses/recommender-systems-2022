@@ -3,14 +3,14 @@ This page is about the course **data engineering** in the department of informat
 
 ## Content list
 ### Slide materials
-1. [User-based collaborative filtering](https://speakerdeck.com/trycycle/recommender-systems-part-1-2022)
-2. [Item-based collaborative filtering](https://speakerdeck.com/trycycle/recommender-systems-part-2-2022)
-3. [Matrix Factorization](https://speakerdeck.com/trycycle/recommender-systems-part-3-2022)
-4. [Link analysis](https://speakerdeck.com/trycycle/recommender-systems-part-4-2022)
+1. [User-based collaborative filtering](https://speakerdeck.com/trycycle/recommender-systems-part-1)
+2. [Item-based collaborative filtering](https://speakerdeck.com/trycycle/recommender-systems-part-2)
+3. [Matrix Factorization](https://speakerdeck.com/trycycle/recommender-systems-part-3)
+4. [Link analysis](https://speakerdeck.com/trycycle/recommender-systems-part-4)
 5. [Course assignment (University Office365 account is needed to access)]()
 
 ### Lecture videos
-1. [User-based collaborative filtering]()
+1. [User-based collaborative filtering](https://youtu.be/sK3sAOFTTDc)
 2. [Item-based collaborative filtering]()
 3. [Matrix Factorization]()
 4. [Link analysis]()
@@ -23,9 +23,9 @@ The following programming codes help you to understand how several algorithms of
 3. [Matrix Factorization](https://colab.research.google.com/github/hontolab-courses/recommender-systems-2022/blob/main/notebook/3c-matrix-factorization.ipynb)
 4. [Link analysis](https://colab.research.google.com/github/hontolab-courses/recommender-systems-2022/blob/main/notebook/4c-link-analysis.ipynb)
 
-### Sample answer to programming assignment
-1. [User-based collaborative filtering](https://colab.research.google.com/github/hontolab-courses/recommender-systems-2022/blob/main/notebook/1a-user-based-cf.ipynb)
-2. [Item-based collaborative filtering](https://colab.research.google.com/github/hontolab-courses/recommender-systems-2022/blob/main/notebook/2a-item-based-cf.ipynb)
+<!-- ### Sample answer to programming assignment -->
+<!-- 1. [User-based collaborative filtering](https://colab.research.google.com/github/hontolab-courses/recommender-systems-2022/blob/main/notebook/1a-user-based-cf.ipynb) -->
+<!-- 2. [Item-based collaborative filtering](https://colab.research.google.com/github/hontolab-courses/recommender-systems-2022/blob/main/notebook/2a-item-based-cf.ipynb) -->
 
 ---
 ## Programming environment
