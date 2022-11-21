@@ -26,7 +26,7 @@ The following programming codes help you to understand how several algorithms of
 
 ### Sample answer to programming assignment
 1. [User-based collaborative filtering](https://colab.research.google.com/github/hontolab-courses/recommender-systems-2022/blob/main/notebook/1a-user-based-cf.ipynb)
-<!-- 2. [Item-based collaborative filtering](https://colab.research.google.com/github/hontolab-courses/recommender-systems-2022/blob/main/notebook/2a-item-based-cf.ipynb) -->
+2. [Item-based collaborative filtering](https://colab.research.google.com/github/hontolab-courses/recommender-systems-2022/blob/main/notebook/2a-item-based-cf.ipynb)
 
 ---
 ## Programming environment
