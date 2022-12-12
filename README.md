@@ -7,7 +7,6 @@ This page is about the course **data engineering** in the department of informat
 2. [Item-based collaborative filtering (2022.11.21)](https://speakerdeck.com/trycycle/recommender-systems-part-2)
 3. [Matrix Factorization (2022.11.28)](https://speakerdeck.com/trycycle/recommender-systems-part-3)
 4. [Link analysis (2022.12.05)](https://speakerdeck.com/trycycle/recommender-systems-part-4)
-5. Course assignment (2022.12.12)
 5. [Course assignment (2022.12.12)(University Office365 account is needed to access)](https://scii-my.sharepoint.com/:b:/g/personal/yusuke_yamamoto_cii_shizuoka_ac_jp/EQImve4xzitInA_-d83TaP4BS1qoCOnMAbXYKO8wo1TNZg?e=3droX1)
 
 ### Lecture videos
